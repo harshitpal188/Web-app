@@ -14,7 +14,7 @@ cd Backend
 npm install
 ```
 
-Copy `.env.example` to `.env` and fill in:
+create .env file and  fill in:
 
 ```
 MONGO_URI=mongodb+srv://...
