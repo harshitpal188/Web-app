@@ -51,6 +51,7 @@ npm run dev
 
 Open the URL Vite prints (usually http://localhost:5173). Backend must be running first.
 
+
 ## Quick sanity check
 
 1. Sign up one admin and one member.
